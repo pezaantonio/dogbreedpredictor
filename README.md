@@ -1,4 +1,4 @@
-# dogbreedpredictor
+# Dog Breed Predictor
 Using machine learning to classify a dog's breed by it's picture
 
 
